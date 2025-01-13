@@ -5,7 +5,7 @@
 
 
 🌍 **Jazyky / Languages** :  
-🇨🇿  [Čeština](#čeština) | 🇬🇧  [English](#english)
+🇨🇿  [Čeština](#Čeština) | 🇬🇧  [English](#English)
 
 
 ---
