@@ -5,12 +5,12 @@
 
 
 🌍 **Jazyky / Languages** :  
-🇨🇿  [Čeština](#Čeština) | 🇬🇧  [English](#English)
+🇨🇿  [Čeština](#🇨🇿Čeština) | 🇬🇧  [English](#🇬🇧English)
 
 
 ---
 
-## 🇨🇿 Čeština
+## 🇨🇿Čeština
 
 ### 🌟 O mně
 
@@ -64,7 +64,7 @@ Jednoduchá a efektivní knihovna v **Golang** pro jednoduchý start web aplikac
 ---
 
 
-## 🇬🇧 English
+## 🇬🇧English
 
 ### 🌟 About Me
 
