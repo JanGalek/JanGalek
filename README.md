@@ -23,8 +23,12 @@ dark
 ### 🔥 Statistika / Statistic
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JanGalek&show_icons=true&theme=onedark&hide_border=true" alt="JanGalek GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanGalek&layout=compact&theme=onedark&hide_border=true" alt="Nejpoužívanější jazyky" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanGalek&layout=donut-vertical&theme=onedark&hide_border=true&langs_count=10" alt="Nejpoužívanější jazyky" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JanGalek&show_icons=true&theme=onedark&hide_border=true&rank_icon=github&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" alt="JanGalek GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JanGalek" alt="Jan Galek wakatime" />
 </div>
 
 ---
