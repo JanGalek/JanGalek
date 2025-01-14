@@ -3,6 +3,20 @@
 
 ---
 
+### 🛠️ Technology
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Code-Go-blue?style=for-the-badge&logo=go" />
+  <img src="https://img.shields.io/badge/Code-PHP-blue?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-blue?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Code-ReactJS-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Tools-Docker-blue?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Editor-PHPStorm-purple?style=for-the-badge&logo=phpstorm" />
+  <img src="https://img.shields.io/badge/Editor-GoLand-purple?style=for-the-badge&logo=goland" />
+  <img src="https://img.shields.io/badge/OS-Fedora-blue?style=for-the-badge&logo=fedora" />
+</div>
+
 
 🌍 **Jazyky / Languages** :  
 🇨🇿  [Čeština](#čeština) | 🇬🇧  [English](#english)
@@ -19,22 +33,6 @@ Jsem zkušený vývojář se specializací na **PHP**, **JavaScript** a **Golang
 - Vývoj backendových aplikací.  
 - Tvorbu nástrojů a knihoven v **Golang**.  
 - Automatizaci pomocí **Dockeru**.  
-
----
-
-### 🛠️ Technologie
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Code-Go-blue?style=for-the-badge&logo=go" />
-  <img src="https://img.shields.io/badge/Code-PHP-blue?style=for-the-badge&logo=php" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-blue?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/Code-ReactJS-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Tools-Docker-blue?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/Editor-PHPStorm-purple?style=for-the-badge&logo=phpstorm" />
-  <img src="https://img.shields.io/badge/Editor-GoLand-purple?style=for-the-badge&logo=goland" />
-  <img src="https://img.shields.io/badge/OS-Fedora-blue?style=for-the-badge&logo=fedora" />
-</div>
 
 ---
 
@@ -73,22 +71,6 @@ I am an experienced developer specializing in **PHP**, **JavaScript**, and **Gol
 - Developing backend applications.  
 - Creating tools and libraries in **Golang**.  
 - Automation using **Docker**.  
-
----
-
-### 🛠️ Technology
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Code-Go-blue?style=for-the-badge&logo=go" />
-  <img src="https://img.shields.io/badge/Code-PHP-blue?style=for-the-badge&logo=php" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-blue?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/Code-ReactJS-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Tools-Docker-blue?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/Editor-PHPStorm-purple?style=for-the-badge&logo=phpstorm" />
-  <img src="https://img.shields.io/badge/Editor-GoLand-purple?style=for-the-badge&logo=goland" />
-  <img src="https://img.shields.io/badge/OS-Fedora-blue?style=for-the-badge&logo=fedora" />
-</div>
 
 ---
 
