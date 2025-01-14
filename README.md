@@ -17,14 +17,26 @@
   <img src="https://img.shields.io/badge/OS-Fedora-blue?style=for-the-badge&logo=fedora" />
 </div>
 
+---
+
+dark
+### 🔥 Statistika / Statistic
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JanGalek&show_icons=true&theme=onedark&hide_border=true" alt="JanGalek GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanGalek&layout=compact&theme=onedark&hide_border=true" alt="Nejpoužívanější jazyky" />
+</div>
+
+---
+
 
 🌍 **Jazyky / Languages** :  
-🇨🇿  [Čeština](#čeština) | 🇬🇧  [English](#english)
+🇨🇿  [Čeština](#-čeština) | 🇬🇧  [English](#-english)
 
 
 ---
 
-## 🇨🇿Čeština
+## 🇨🇿 Čeština
 
 ### 🌟 O mně
 
@@ -44,25 +56,8 @@ Jednoduchá a efektivní knihovna v **Golang** pro jednoduchý start web aplikac
 
 ---
 
-### 🔥 Statistika
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JanGalek&show_icons=true&theme=dark&hide_border=true" alt="JanGalek GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanGalek&layout=compact&theme=dark&hide_border=true" alt="Nejpoužívanější jazyky" />
-</div>
-
----
-
-### 📫 Kontakt
-
-- **YouTube:** [Jan Galek - Programátor a Redaktor](https://www.youtube.com/@JanGalekProgramator-Redaktor)  
-- **GitHub:** [JanGalek](https://github.com/JanGalek)  
-- **E-mail:** [ghome.cz@gmail.com]  
-
----
-
-
-## 🇬🇧English
+## 🇬🇧 English
 
 ### 🌟 About Me
 
@@ -77,20 +72,15 @@ I am an experienced developer specializing in **PHP**, **JavaScript**, and **Gol
 ### 🚀 My Projects
 
 🔧 **[Gouef](https://github.com/JanGalek/gouef)**  
-A simple and efficient **Golang** library for building terminal user interfaces.
-
-🔧 **[Project Name 2](https://github.com/JanGalek/project-name-2)**  
-A short description of the project's main focus.
-
-📚 **Find more of my projects [here](https://github.com/JanGalek?tab=repositories)**.
+A simple and efficient **Golang** library for easy start your web project.
 
 ---
 
-### 📫 Contact
+### 📫 Kontakt / Contact
 
-- **YouTube:** [Jan Galek - Programmer and Editor](https://www.youtube.com/@JanGalekProgramator-Redaktor)  
+- **YouTube:** [Jan Galek - Programátor a Redaktor](https://www.youtube.com/@JanGalekProgramator-Redaktor)  
 - **GitHub:** [JanGalek](https://github.com/JanGalek)  
-- **E-mail:** [ghome.cz@gmail.com]  
+- **E-mail:** [EMAIL](mailto:ghome.cz@gmail.com)
 
 ---
 
