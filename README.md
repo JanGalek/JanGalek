@@ -19,7 +19,6 @@
 
 ---
 
-dark
 ### 🔥 Statistika / Statistic
 
 <div align="center">
