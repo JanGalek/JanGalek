@@ -22,13 +22,20 @@
 ### 🔥 Statistika / Statistic
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanGalek&layout=donut-vertical&theme=onedark&hide_border=true&langs_count=10" alt="Nejpoužívanější jazyky" />
-  <img src="https://github-readme-stats.vercel.app/api?username=JanGalek&show_icons=true&theme=onedark&hide_border=true&rank_icon=github&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" alt="JanGalek GitHub Stats" />
+  <table border="0" style="border-collapse: collapse; border: none;">
+    <tr  border="0">
+      <td align="center" border="0" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanGalek&layout=donut-vertical&theme=onedark&hide_border=true&langs_count=10" alt="Nejpoužívanější jazyky" />
+      </td>
+      <td align="center" border="0" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=JanGalek&show_icons=true&theme=onedark&hide_border=true&rank_icon=github&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" alt="JanGalek GitHub Stats" />
+        <br />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JanGalek" alt="Jan Galek wakatime" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JanGalek" alt="Jan Galek wakatime" />
-</div>
 
 ---
 
