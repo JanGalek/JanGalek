@@ -31,8 +31,6 @@
       </td>
       <td align="center" border="0" valign="top">
         <img src="https://github-readme-stats.vercel.app/api?username=JanGalek&show_icons=true&theme=vue-dark&hide_border=true&rank_icon=github&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" alt="JanGalek GitHub Stats" />
-        <br />
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JanGalek" alt="Jan Galek wakatime" />
       </td>
     </tr>
   </table>
