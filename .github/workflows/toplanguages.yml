@@ -1,0 +1,22 @@
+name: Create Top Languages
+
+on:
+  push:
+  schedule:
+    - cron: '0 */2 * * *'
+
+jobs:
+  build-and-run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run custom action
+        uses: gouef/githubtoplanguages@main
+        with:
+          botName: "Jan Galek"
+          botEmail: "ghome.cz@gmail.com"
+          user: "JanGalek"
+          limit: 6
+          ignoredOrgsFlag: "wowmua"
+          ignoredReposFlag: "wowmua/Maps"
+        env:
+          GITHUB_TOKEN: ${{ secrets.USER_GITHUB_TOKEN }}
