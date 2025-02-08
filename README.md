@@ -25,7 +25,7 @@
   <table border="0" style="border-collapse: collapse; border: none;">
     <tr  border="0">
       <td align="center" border="0" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanGalek&layout=compact&theme=vue-dark&hide_border=true&show_icons=true&langs_count=6" alt="Nejpoužívanější jazyky" />
+        <img src="https://raw.githubusercontent.com/JanGalek/JanGalek/refs/heads/master/toplanguages.svg" alt="Nejpoužívanější jazyky" />
         <br />
         <img src="https://github-readme-streak-stats-red-chi.vercel.app/?user=JanGalek&theme=vue-dark&hide_border=true&short_numbers=true" />
       </td>
