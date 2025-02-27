@@ -83,17 +83,17 @@
                 <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
             </mask>
             
-                <rect mask="url(#rect-mask)" x="0" y="0" width="119.8155531991434" height="8" fill="#00ADD8"/>
+                <rect mask="url(#rect-mask)" x="0" y="0" width="119.82266351267873" height="8" fill="#00ADD8"/>
             
-                <rect mask="url(#rect-mask)" x="119.8155531991434" y="0" width="78.69665818483857" height="8" fill="#4F5D95"/>
+                <rect mask="url(#rect-mask)" x="119.82266351267873" y="0" width="78.69235999156258" height="8" fill="#4F5D95"/>
             
-                <rect mask="url(#rect-mask)" x="198.51221138398196" y="0" width="22.175570074905025" height="8" fill="#384d54"/>
+                <rect mask="url(#rect-mask)" x="198.5150235042413" y="0" width="22.174358906751443" height="8" fill="#384d54"/>
             
-                <rect mask="url(#rect-mask)" x="220.687781458887" y="0" width="12.713560314838428" height="8" fill="#e34c26"/>
+                <rect mask="url(#rect-mask)" x="220.68938241099275" y="0" width="12.712865935423604" height="8" fill="#e34c26"/>
             
-                <rect mask="url(#rect-mask)" x="233.40134177372542" y="0" width="12.644814187693878" height="8" fill="#89e051"/>
+                <rect mask="url(#rect-mask)" x="233.40224834641634" y="0" width="12.644123563001912" height="8" fill="#89e051"/>
             
-                <rect mask="url(#rect-mask)" x="246.0461559614193" y="0" width="3.9538440385807037" height="8" fill="#3178c6"/>
+                <rect mask="url(#rect-mask)" x="246.04637190941827" y="0" width="3.9536280905817303" height="8" fill="#3178c6"/>
             
 
             <g transform="translate(0, 25)">
