@@ -81,7 +81,7 @@ I am an experienced developer specializing in **PHP**, **JavaScript**, and **Gol
 
 ### 🚀 My Projects
 
-🔧 **[Gouef](https://github.com/JanGalek/gouef)**  
+🔧 **[Gouef](https://github.com/gouef)**  
 A simple and efficient **Golang** library for easy start your web project.
 
 ---
