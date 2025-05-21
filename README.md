@@ -64,6 +64,17 @@ Jsem zkušený vývojář se specializací na **PHP**, **JavaScript** a **Golang
 Jednoduchá a efektivní knihovna v **Golang** pro jednoduchý start web aplikace.
 
 
+🔧 **[PHPuef](https://github.com/phpuef)**  
+Jednoduché a efektivní knihovny v **PHP**.
+
+
+🔧 **[JSuef](https://github.com/jsuef)**  
+Jednoduché a efektivní knihovny v **JS**.
+
+
+🔧 **[Pythonuef](https://github.com/pythonuef)**  
+Jednoduché a efektivní knihovny v **Python**.
+
 ---
 
 
@@ -83,6 +94,19 @@ I am an experienced developer specializing in **PHP**, **JavaScript**, and **Gol
 
 🔧 **[Gouef](https://github.com/gouef)**  
 A simple and efficient **Golang** library for easy start your web project.
+
+
+🔧 **[PHPuef](https://github.com/phpuef)**  
+A simple and efficient **PHP** libraries.
+
+
+🔧 **[JSuef](https://github.com/jsuef)**  
+A simple and efficient **JS** libraries.
+
+
+🔧 **[Pythonuef](https://github.com/pythonuef)**  
+A simple and efficient **Python** libraries.
+
 
 ---
 
