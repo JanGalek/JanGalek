@@ -21,6 +21,6 @@ jobs:
           limit: 6
           ignoredOrgsFlag: "wowmua,EpicGames"
           ignoredReposFlag: "wowmua/Maps"
-          ignoredLangsFlag: "OASv2-yaml,Gettext Catalog,YAML,JSON,CSS,Go Template"
+          ignoredLangsFlag: "OASv2-yaml,Gettext Catalog,YAML,JSON,CSS,Go Template,HTML,Latte"
         env:
           GITHUB_TOKEN: ${{ secrets.USER_GITHUB_TOKEN }}
