@@ -83,17 +83,17 @@
                 <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
             </mask>
             
-                <rect mask="url(#rect-mask)" x="0" y="0" width="189.61871591123736" height="8" fill="#a56de2"/>
+                <rect mask="url(#rect-mask)" x="0" y="0" width="189.7129275146461" height="8" fill="#a56de2"/>
             
-                <rect mask="url(#rect-mask)" x="189.61871591123736" y="0" width="33.3863190385897" height="8" fill="#4F5D95"/>
+                <rect mask="url(#rect-mask)" x="189.7129275146461" y="0" width="33.27869505165589" height="8" fill="#4F5D95"/>
             
-                <rect mask="url(#rect-mask)" x="223.00503494982706" y="0" width="10.146827947979098" height="8" fill="#cccccc"/>
+                <rect mask="url(#rect-mask)" x="222.991622566302" y="0" width="10.15186937506554" height="8" fill="#cccccc"/>
             
-                <rect mask="url(#rect-mask)" x="233.15186289780615" y="0" width="7.598805915939934" height="8" fill="#00ADD8"/>
+                <rect mask="url(#rect-mask)" x="233.14349194136753" y="0" width="7.602581364401822" height="8" fill="#00ADD8"/>
             
-                <rect mask="url(#rect-mask)" x="240.75066881374607" y="0" width="6.5299370168861115" height="8" fill="#cb171e"/>
+                <rect mask="url(#rect-mask)" x="240.74607330576936" y="0" width="6.533181400403647" height="8" fill="#cb171e"/>
             
-                <rect mask="url(#rect-mask)" x="247.2806058306322" y="0" width="2.719394169367798" height="8" fill="#00ADD8"/>
+                <rect mask="url(#rect-mask)" x="247.279254706173" y="0" width="2.7207452938270333" height="8" fill="#00ADD8"/>
             
 
             <g transform="translate(0, 25)">
@@ -103,7 +103,7 @@
                             <g class="stagger" style="animation-delay: 450ms">
                                 <circle cx="5" cy="6" r="5" fill="#a56de2" />
                                 <text x="15" y="10" class='lang-name'>
-                                    Vala 75.85%
+                                    Vala 75.89%
                                 </text>
                             </g>
                         </g>
@@ -112,7 +112,7 @@
                             <g class="stagger" style="animation-delay: 600ms">
                                 <circle cx="5" cy="6" r="5" fill="#4F5D95" />
                                 <text x="15" y="10" class='lang-name'>
-                                    PHP 13.35%
+                                    PHP 13.31%
                                 </text>
                             </g>
                         </g>
