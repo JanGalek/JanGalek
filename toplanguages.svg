@@ -1,5 +1,5 @@
 
-<svg width="300" height="170" viewBox="0 0 300 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="descId">
+<svg width="300" height="220" viewBox="0 0 300 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="descId">
     <style>
         .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -83,17 +83,25 @@
                 <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
             </mask>
             
-                <rect mask="url(#rect-mask)" x="0" y="0" width="155.20898446183983" height="8" fill="#4F5D95"/>
+                <rect mask="url(#rect-mask)" x="0" y="0" width="153.1355315514314" height="8" fill="#4F5D95"/>
             
-                <rect mask="url(#rect-mask)" x="155.20898446183983" y="0" width="31.804712448574467" height="8" fill="#00ADD8"/>
+                <rect mask="url(#rect-mask)" x="153.1355315514314" y="0" width="31.379829998503325" height="8" fill="#00ADD8"/>
             
-                <rect mask="url(#rect-mask)" x="187.0136969104143" y="0" width="30.470198692817295" height="8" fill="#85ea2d"/>
+                <rect mask="url(#rect-mask)" x="184.5153615499347" y="0" width="30.06314415032798" height="8" fill="#ff1111"/>
             
-                <rect mask="url(#rect-mask)" x="217.4838956032316" y="0" width="17.9737621910872" height="8" fill="#f1e05a"/>
+                <rect mask="url(#rect-mask)" x="214.5785057002627" y="0" width="17.73364883904564" height="8" fill="#f1e05a"/>
             
-                <rect mask="url(#rect-mask)" x="235.45765779431878" y="0" width="11.164538157547165" height="8" fill="#3178c6"/>
+                <rect mask="url(#rect-mask)" x="232.31215453930832" y="0" width="11.015389935126933" height="8" fill="#3178c6"/>
             
-                <rect mask="url(#rect-mask)" x="246.62219595186593" y="0" width="3.377804048134035" height="8" fill="#427819"/>
+                <rect mask="url(#rect-mask)" x="243.32754447443526" y="0" width="2.6740141306647813" height="8" fill="#a56de2"/>
+            
+                <rect mask="url(#rect-mask)" x="246.00155860510003" y="0" width="1.5289296718155685" height="8" fill="#007800"/>
+            
+                <rect mask="url(#rect-mask)" x="247.5304882769156" y="0" width="1.276688531866249" height="8" fill="#384d54"/>
+            
+                <rect mask="url(#rect-mask)" x="248.80717680878186" y="0" width="0.6212486388010096" height="8" fill="#c6538c"/>
+            
+                <rect mask="url(#rect-mask)" x="249.42842544758287" y="0" width="0.5715745524171282" height="8" fill="#878787"/>
             
 
             <g transform="translate(0, 25)">
@@ -103,7 +111,7 @@
                             <g class="stagger" style="animation-delay: 450ms">
                                 <circle cx="5" cy="6" r="5" fill="#4F5D95" />
                                 <text x="15" y="10" class='lang-name'>
-                                    PHP 62.08%
+                                    PHP 61.25%
                                 </text>
                             </g>
                         </g>
@@ -112,16 +120,34 @@
                             <g class="stagger" style="animation-delay: 600ms">
                                 <circle cx="5" cy="6" r="5" fill="#00ADD8" />
                                 <text x="15" y="10" class='lang-name'>
-                                    Go 12.72%
+                                    Go 12.55%
                                 </text>
                             </g>
                         </g>
                     
                         <g transform="translate(0, 50)">
                             <g class="stagger" style="animation-delay: 750ms">
-                                <circle cx="5" cy="6" r="5" fill="#85ea2d" />
+                                <circle cx="5" cy="6" r="5" fill="#ff1111" />
                                 <text x="15" y="10" class='lang-name'>
-                                    OASv3-yaml 12.19%
+                                    MiniYAML 12.03%
+                                </text>
+                            </g>
+                        </g>
+                    
+                        <g transform="translate(0, 75)">
+                            <g class="stagger" style="animation-delay: 900ms">
+                                <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+                                <text x="15" y="10" class='lang-name'>
+                                    JavaScript 7.09%
+                                </text>
+                            </g>
+                        </g>
+                    
+                        <g transform="translate(0, 100)">
+                            <g class="stagger" style="animation-delay: 1050ms">
+                                <circle cx="5" cy="6" r="5" fill="#3178c6" />
+                                <text x="15" y="10" class='lang-name'>
+                                    TypeScript 4.41%
                                 </text>
                             </g>
                         </g>
@@ -131,27 +157,45 @@
                     
                         <g transform="translate(0, 0)">
                             <g class="stagger" style="animation-delay: 450ms">
-                                <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+                                <circle cx="5" cy="6" r="5" fill="#a56de2" />
                                 <text x="15" y="10" class='lang-name'>
-                                    JavaScript 7.19%
+                                    Vala 1.07%
                                 </text>
                             </g>
                         </g>
                     
                         <g transform="translate(0, 25)">
                             <g class="stagger" style="animation-delay: 600ms">
-                                <circle cx="5" cy="6" r="5" fill="#3178c6" />
+                                <circle cx="5" cy="6" r="5" fill="#007800" />
                                 <text x="15" y="10" class='lang-name'>
-                                    TypeScript 4.47%
+                                    Meson 0.61%
                                 </text>
                             </g>
                         </g>
                     
                         <g transform="translate(0, 50)">
                             <g class="stagger" style="animation-delay: 750ms">
-                                <circle cx="5" cy="6" r="5" fill="#427819" />
+                                <circle cx="5" cy="6" r="5" fill="#384d54" />
                                 <text x="15" y="10" class='lang-name'>
-                                    Makefile 1.35%
+                                    Dockerfile 0.51%
+                                </text>
+                            </g>
+                        </g>
+                    
+                        <g transform="translate(0, 75)">
+                            <g class="stagger" style="animation-delay: 900ms">
+                                <circle cx="5" cy="6" r="5" fill="#c6538c" />
+                                <text x="15" y="10" class='lang-name'>
+                                    SCSS 0.25%
+                                </text>
+                            </g>
+                        </g>
+                    
+                        <g transform="translate(0, 100)">
+                            <g class="stagger" style="animation-delay: 1050ms">
+                                <circle cx="5" cy="6" r="5" fill="#878787" />
+                                <text x="15" y="10" class='lang-name'>
+                                    Hack 0.23%
                                 </text>
                             </g>
                         </g>
