@@ -19,7 +19,7 @@ jobs:
           botEmail: "ghome.cz@gmail.com"
           user: "JanGalek"
           limit: 6
-          ignoredOrgsFlag: "wowmua"
+          ignoredOrgsFlag: "wowmua,EpicGames"
           ignoredReposFlag: "wowmua/Maps"
         env:
           GITHUB_TOKEN: ${{ secrets.USER_GITHUB_TOKEN }}
