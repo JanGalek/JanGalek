@@ -19,8 +19,8 @@ jobs:
           botEmail: "ghome.cz@gmail.com"
           user: "JanGalek"
           limit: 6
-          ignoredOrgsFlag: "wowmua,EpicGames"
-          ignoredReposFlag: "wowmua/Maps"
+          ignoredOrgsFlag: "wowmua,EpicGames,Go2speak,gothicuef"
+          ignoredReposFlag: "wowmua/Maps,TroiaStudio/blizzard-api"
           ignoredLangsFlag: "OASv3-yaml,OASv2-yaml,Gettext Catalog,YAML,JSON,CSS,Go Template,HTML,Latte,Makefile,MiniYAML,SCSS,Dockerfile,SVG,Meson"
         env:
           GITHUB_TOKEN: ${{ secrets.USER_GITHUB_TOKEN }}
