@@ -18,7 +18,7 @@ jobs:
           botName: "Jan Galek"
           botEmail: "ghome.cz@gmail.com"
           user: "JanGalek"
-          limit: 6
+          limit: 10
           ignoredOrgsFlag: "wowmua,EpicGames"
           ignoredReposFlag: "wowmua/Maps"
           ignoredLangsFlag: "OASv3-yaml,OASv2-yaml,Gettext Catalog,YAML,JSON,CSS,Go Template,HTML,Latte,Makefile"
