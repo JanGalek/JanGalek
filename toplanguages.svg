@@ -1,5 +1,5 @@
 
-<svg width="300" height="195" viewBox="0 0 300 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="descId">
+<svg width="300" height="170" viewBox="0 0 300 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="descId">
     <style>
         .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -83,21 +83,17 @@
                 <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
             </mask>
             
-                <rect mask="url(#rect-mask)" x="0" y="0" width="176.30212356359402" height="8" fill="#4F5D95"/>
+                <rect mask="url(#rect-mask)" x="0" y="0" width="177.14488792665048" height="8" fill="#4F5D95"/>
             
-                <rect mask="url(#rect-mask)" x="176.30212356359402" y="0" width="36.12702166343834" height="8" fill="#00ADD8"/>
+                <rect mask="url(#rect-mask)" x="177.14488792665048" y="0" width="36.16473310275298" height="8" fill="#00ADD8"/>
             
-                <rect mask="url(#rect-mask)" x="212.42914522703236" y="0" width="20.416424047248398" height="8" fill="#f1e05a"/>
+                <rect mask="url(#rect-mask)" x="213.30962102940347" y="0" width="20.43773587150152" height="8" fill="#f1e05a"/>
             
-                <rect mask="url(#rect-mask)" x="232.84556927428076" y="0" width="12.681816021199989" height="8" fill="#3178c6"/>
+                <rect mask="url(#rect-mask)" x="233.747356900905" y="0" width="12.695054021822854" height="8" fill="#3178c6"/>
             
-                <rect mask="url(#rect-mask)" x="245.52738529548074" y="0" width="3.0785433328183855" height="8" fill="#a56de2"/>
+                <rect mask="url(#rect-mask)" x="246.44241092272784" y="0" width="3.0817568913883298" height="8" fill="#a56de2"/>
             
-                <rect mask="url(#rect-mask)" x="248.60592862829913" y="0" width="0.6580432793430857" height="8" fill="#878787"/>
-            
-                <rect mask="url(#rect-mask)" x="249.2639719076422" y="0" width="0.4753360031372176" height="8" fill="#000080"/>
-            
-                <rect mask="url(#rect-mask)" x="249.73930791077942" y="0" width="0.2606920892205678" height="8" fill="#FFCFAB"/>
+                <rect mask="url(#rect-mask)" x="249.52416781411617" y="0" width="0.4758321858838434" height="8" fill="#000080"/>
             
 
             <g transform="translate(0, 25)">
@@ -107,7 +103,7 @@
                             <g class="stagger" style="animation-delay: 450ms">
                                 <circle cx="5" cy="6" r="5" fill="#4F5D95" />
                                 <text x="15" y="10" class='lang-name'>
-                                    PHP 70.52%
+                                    PHP 70.86%
                                 </text>
                             </g>
                         </g>
@@ -116,7 +112,7 @@
                             <g class="stagger" style="animation-delay: 600ms">
                                 <circle cx="5" cy="6" r="5" fill="#00ADD8" />
                                 <text x="15" y="10" class='lang-name'>
-                                    Go 14.45%
+                                    Go 14.47%
                                 </text>
                             </g>
                         </g>
@@ -125,16 +121,7 @@
                             <g class="stagger" style="animation-delay: 750ms">
                                 <circle cx="5" cy="6" r="5" fill="#f1e05a" />
                                 <text x="15" y="10" class='lang-name'>
-                                    JavaScript 8.17%
-                                </text>
-                            </g>
-                        </g>
-                    
-                        <g transform="translate(0, 75)">
-                            <g class="stagger" style="animation-delay: 900ms">
-                                <circle cx="5" cy="6" r="5" fill="#3178c6" />
-                                <text x="15" y="10" class='lang-name'>
-                                    TypeScript 5.07%
+                                    JavaScript 8.18%
                                 </text>
                             </g>
                         </g>
@@ -144,18 +131,18 @@
                     
                         <g transform="translate(0, 0)">
                             <g class="stagger" style="animation-delay: 450ms">
-                                <circle cx="5" cy="6" r="5" fill="#a56de2" />
+                                <circle cx="5" cy="6" r="5" fill="#3178c6" />
                                 <text x="15" y="10" class='lang-name'>
-                                    Vala 1.23%
+                                    TypeScript 5.08%
                                 </text>
                             </g>
                         </g>
                     
                         <g transform="translate(0, 25)">
                             <g class="stagger" style="animation-delay: 600ms">
-                                <circle cx="5" cy="6" r="5" fill="#878787" />
+                                <circle cx="5" cy="6" r="5" fill="#a56de2" />
                                 <text x="15" y="10" class='lang-name'>
-                                    Hack 0.26%
+                                    Vala 1.23%
                                 </text>
                             </g>
                         </g>
@@ -165,15 +152,6 @@
                                 <circle cx="5" cy="6" r="5" fill="#000080" />
                                 <text x="15" y="10" class='lang-name'>
                                     Lua 0.19%
-                                </text>
-                            </g>
-                        </g>
-                    
-                        <g transform="translate(0, 75)">
-                            <g class="stagger" style="animation-delay: 900ms">
-                                <circle cx="5" cy="6" r="5" fill="#FFCFAB" />
-                                <text x="15" y="10" class='lang-name'>
-                                    GCC Machine Description 0.10%
                                 </text>
                             </g>
                         </g>
