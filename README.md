@@ -27,9 +27,6 @@
       <td align="center" border="0" valign="top">
         <img src="https://raw.githubusercontent.com/JanGalek/JanGalek/refs/heads/master/toplanguages.svg" alt="Nejpoužívanější jazyky" />
       </td>
-      <td align="center" border="0" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=JanGalek&show_icons=true&theme=vue-dark&hide_border=true&rank_icon=github&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" alt="JanGalek GitHub Stats" />
-      </td>
     </tr>
   </table>
 </div>
