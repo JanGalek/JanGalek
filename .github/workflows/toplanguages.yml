@@ -18,7 +18,7 @@ jobs:
           botName: "Jan Galek"
           botEmail: "ghome.cz@gmail.com"
           user: "JanGalek"
-          limit: 8
+          limit: 12
           ignoredOrgsFlag: "wowmua,EpicGames,Go2speak,gothicuef"
           ignoredReposFlag: "wowmua/Maps,TroiaStudio/blizzard-api"
           ignoredLangsFlag: "OASv3-yaml,OASv2-yaml,Gettext Catalog,YAML,JSON,Makefile,MiniYAML,SCSS,Dockerfile,SVG,Meson"
