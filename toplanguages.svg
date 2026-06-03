@@ -64,17 +64,17 @@
                  <rect x="0" y="0" width="450" height="8" fill="white" rx="5"/>
             </mask>
             
-                <rect mask="url(#rect-mask)" x="0" y="0" width="137.25858275692875" height="8" fill="#00ADD8"/>
+                <rect mask="url(#rect-mask)" x="0" y="0" width="137.2997176313584" height="8" fill="#00ADD8"/>
             
-                <rect mask="url(#rect-mask)" x="137.25858275692875" y="0" width="128.07589773274574" height="8" fill="#4F5D95"/>
+                <rect mask="url(#rect-mask)" x="137.2997176313584" y="0" width="128.03322510558309" height="8" fill="#4F5D95"/>
             
-                <rect mask="url(#rect-mask)" x="265.3344804896745" y="0" width="45.70585162791434" height="8" fill="#f1e05a"/>
+                <rect mask="url(#rect-mask)" x="265.3329427369415" y="0" width="45.690623245367775" height="8" fill="#f1e05a"/>
             
-                <rect mask="url(#rect-mask)" x="311.04033211758883" y="0" width="10.931186447576387" height="8" fill="#89e051"/>
+                <rect mask="url(#rect-mask)" x="311.02356598230926" y="0" width="10.927544369308889" height="8" fill="#89e051"/>
             
-                <rect mask="url(#rect-mask)" x="321.97151856516524" y="0" width="7.574600963701772" height="8" fill="#3178c6"/>
+                <rect mask="url(#rect-mask)" x="321.9511103516181" y="0" width="7.572077240436492" height="8" fill="#3178c6"/>
             
-                <rect mask="url(#rect-mask)" x="329.546119528867" y="0" width="120.45388047113305" height="8" fill="#d4d4d4"/>
+                <rect mask="url(#rect-mask)" x="329.5231875920546" y="0" width="120.47681240794539" height="8" fill="#d4d4d4"/>
             
 
             <g transform="translate(0, 25)">
@@ -84,7 +84,7 @@
                             <g class="stagger" style="animation-delay: 450ms">
                                 <circle cx="5" cy="6" r="5" fill="#00ADD8" />
                                 <text x="15" y="10" class='lang-name'>
-                                    Go 30.50%
+                                    Go 30.51%
                                 </text>
                             </g>
                         </g>
@@ -93,7 +93,7 @@
                             <g class="stagger" style="animation-delay: 600ms">
                                 <circle cx="5" cy="6" r="5" fill="#4F5D95" />
                                 <text x="15" y="10" class='lang-name'>
-                                    PHP 28.46%
+                                    PHP 28.45%
                                 </text>
                             </g>
                         </g>
@@ -102,7 +102,7 @@
                             <g class="stagger" style="animation-delay: 750ms">
                                 <circle cx="5" cy="6" r="5" fill="#f1e05a" />
                                 <text x="15" y="10" class='lang-name'>
-                                    JavaScript 10.16%
+                                    JavaScript 10.15%
                                 </text>
                             </g>
                         </g>
@@ -162,7 +162,7 @@
         <line x1="156" y1="20" x2="156" y2="100" stroke="#4b5d73" stroke-width="1"/>
 
         <g transform="translate(156, 15)">
-            <path d="M79,-3 C82,4 76,8 76,12 C76,16 79,18 82,18 C85,18 87,15 86,10 C91,18 84,25 77,25 C70,25 68,18 73,12 C70,7 74,1 79,-3 Z" fill="#2eb872"/>
+            <path d="M79,32 C84.8,32 89.5,28.5 89.5,22.3 C89.5,19.7 88.6,15.3 85.1,11.8 C85.5,14.4 82.9,15.3 82.9,15.3 C82.5,11.8 79,5.7 73.8,4.8 C74.4,8.3 74.6,11.8 70.3,15.3 C68.1,17 66.8,20 66.8,23.1 C66.8,28.5 71.5,32 79,32 M79,30.2 C76.1,30.2 73.8,28.5 73.8,25.4 C73.8,24.1 74.2,21.9 76,20.2 C75.8,21.9 77.3,22.8 77.3,22.8 C76.6,20.6 78.2,17.1 80.8,16.7 C80.5,18.4 80.4,20.2 82.6,21.9 C83.7,22.8 84.3,24.3 84.3,25.8 C84.3,28.5 81.9,30.2 79,30.2" fill="#2eb872"/>
             
             <text x="79" y="54" fill="#2eb872" font-family="Segoe UI, Ubuntu, sans-serif" font-weight="bold" font-size="22px" text-anchor="middle">
                 3
@@ -171,7 +171,7 @@
                 Current Streak
             </text>
             <text x="79" y="94" fill="#ffffff" opacity="0.6" font-family="Segoe UI, Ubuntu, sans-serif" font-size="10px" text-anchor="middle">
-                Jun  1 - Jun  3
+                Jun  1, 2026 - Jun  3, 2026
             </text>
         </g>
 
@@ -185,7 +185,7 @@
                 Longest Streak
             </text>
             <text x="78" y="75" fill="#ffffff" opacity="0.6" font-family="Segoe UI, Ubuntu, sans-serif" font-size="10px" text-anchor="middle">
-                Feb  1 - Feb 19
+                Feb  1, 2025 - Feb 19, 2025
             </text>
         </g>
     </g>
