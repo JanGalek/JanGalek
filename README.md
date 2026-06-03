@@ -8,6 +8,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Code-Go-blue?style=for-the-badge&logo=go" />
   <img src="https://img.shields.io/badge/Code-PHP-blue?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/Code-Vala-a56de2?style=for-the-badge&logo=vala" />
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Code-TypeScript-blue?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/Code-ReactJS-blue?style=for-the-badge&logo=react" />
