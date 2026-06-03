@@ -21,7 +21,7 @@ jobs:
           limit: 8
           ignoredOrgsFlag: "wowmua,EpicGames,Go2speak,gothicuef"
           ignoredReposFlag: "wowmua/Maps,TroiaStudio/blizzard-api"
-          ignoredLangsFlag: "OASv3-yaml,OASv2-yaml,Gettext Catalog,YAML,JSON,CSS,Go Template,HTML,Latte,Makefile,MiniYAML,SCSS,Dockerfile,SVG,Meson"
+          ignoredLangsFlag: "OASv3-yaml,OASv2-yaml,Gettext Catalog,YAML,JSON,Makefile,MiniYAML,SCSS,Dockerfile,SVG,Meson"
           withStreak: "true"
           showStats: "true"
           statsFeatures: "commits,prs,issues,stars,repos,followers"
