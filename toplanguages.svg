@@ -59,7 +59,7 @@
         
             <rect mask="url(#rect-mask)" x="395.4333270591981" y="0" width="1.806000727558354" height="8" fill="#a56de2"/>
         
-            <rect mask="url(#rect-mask)" x="397.23932778675646" y="0" width="0.22702263937176603" height="8" fill="#7e7eff"/>
+            <rect mask="url(#rect-mask)" x="397.23932778675646" y="0" width="0.22702263937176603" height="8" fill="#3572A5"/>
         
             <rect mask="url(#rect-mask)" x="397.4663504261282" y="0" width="52.53364957387161" height="8" fill="#d4d4d4"/>
         
@@ -126,8 +126,8 @@
                         </g>
                     
                         <g transform="translate(0, 100)" class="stagger" style="animation-delay: 850ms">
-                            <circle cx="5" cy="6" r="5" fill="#7e7eff" />
-                            <text x="15" y="10" class='lang-name'>Nix 0.05%</text>
+                            <circle cx="5" cy="6" r="5" fill="#3572A5" />
+                            <text x="15" y="10" class='lang-name'>Python 0.05%</text>
                         </g>
                     
                         <g transform="translate(0, 125)" class="stagger" style="animation-delay: 950ms">
@@ -143,7 +143,7 @@
                     
                         <g transform="translate(0, 2)" class="stagger" style="animation-delay: 0ms">
                             <text x="0" y="10" class="stat-label">Total Commits:</text>
-                            <text x="115" y="10" class="stat-value">424</text>
+                            <text x="115" y="10" class="stat-value">426</text>
                         </g>
                     
                         <g transform="translate(0, 24)" class="stagger" style="animation-delay: 100ms">
@@ -182,7 +182,7 @@
 
         <g transform="translate(0, 20)">
 			<text x="78" y="30" fill="#2eb872" font-family="Segoe UI, Ubuntu, sans-serif" font-weight="bold" font-size="22px" text-anchor="middle">
-                1.6K
+                1.7K
             </text>
             <text x="78" y="55" fill="#a4b1cd" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12px" text-anchor="middle">
                 Total Contributions
