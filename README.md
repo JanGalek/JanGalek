@@ -20,7 +20,7 @@
 
 ---
 
-### 🔥 Statistika / Statistic
+### 🔥 Statistika / Statistic [githubtoplanguages](https://github.com/gouef/githubtoplanguages)
 
 <div align="center">
   <table border="0" style="border-collapse: collapse; border: none;">
