@@ -59,9 +59,9 @@
         
             <rect mask="url(#rect-mask)" x="387.7753810737439" y="0" width="2.5809250193486974" height="8" fill="#f2a542"/>
         
-            <rect mask="url(#rect-mask)" x="390.3563060930926" y="0" width="0.22051581582940974" height="8" fill="#7e7eff"/>
+            <rect mask="url(#rect-mask)" x="390.3563060930926" y="0" width="0.2927026075583196" height="8" fill="#85ea2d"/>
         
-            <rect mask="url(#rect-mask)" x="390.576821908922" y="0" width="59.42317809107798" height="8" fill="#d4d4d4"/>
+            <rect mask="url(#rect-mask)" x="390.64900870065094" y="0" width="59.35099129934907" height="8" fill="#d4d4d4"/>
         
 
         <g transform="translate(5, 25)">
@@ -126,13 +126,13 @@
                         </g>
                     
                         <g transform="translate(0, 100)" class="stagger" style="animation-delay: 850ms">
-                            <circle cx="5" cy="6" r="5" fill="#7e7eff" />
-                            <text x="15" y="10" class='lang-name'>Nix 0.05%</text>
+                            <circle cx="5" cy="6" r="5" fill="#85ea2d" />
+                            <text x="15" y="10" class='lang-name'>OASv2-json 0.07%</text>
                         </g>
                     
                         <g transform="translate(0, 125)" class="stagger" style="animation-delay: 950ms">
                             <circle cx="5" cy="6" r="5" fill="#d4d4d4" />
-                            <text x="15" y="10" class='lang-name'>Others 13.21%</text>
+                            <text x="15" y="10" class='lang-name'>Others 13.19%</text>
                         </g>
                     
                 </g>
@@ -143,7 +143,7 @@
                     
                         <g transform="translate(0, 2)" class="stagger" style="animation-delay: 0ms">
                             <text x="0" y="10" class="stat-label">Total Commits:</text>
-                            <text x="115" y="10" class="stat-value">694</text>
+                            <text x="115" y="10" class="stat-value">695</text>
                         </g>
                     
                         <g transform="translate(0, 24)" class="stagger" style="animation-delay: 100ms">
