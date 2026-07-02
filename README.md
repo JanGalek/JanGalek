@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Code-TypeScript-blue?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/Code-ReactJS-blue?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Tools-Docker-blue?style=for-the-badge&logo=docker" />
+  <img src="https://raw.githubusercontent.com/JanGalek/JanGalek/refs/heads/master/vscode-editor.svg" />
   <img src="https://img.shields.io/badge/Editor-PHPStorm-purple?style=for-the-badge&logo=phpstorm" />
   <img src="https://img.shields.io/badge/Editor-GoLand-purple?style=for-the-badge&logo=goland" />
   <img src="https://img.shields.io/badge/OS-Fedora-blue?style=for-the-badge&logo=fedora" />
