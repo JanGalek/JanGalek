@@ -59,7 +59,7 @@
         
             <rect mask="url(#rect-mask)" x="383.90153556971353" y="0" width="2.552834657170281" height="8" fill="#f2a542"/>
         
-            <rect mask="url(#rect-mask)" x="386.45437022688384" y="0" width="0.2181157580647405" height="8" fill="#7e7eff"/>
+            <rect mask="url(#rect-mask)" x="386.45437022688384" y="0" width="0.2181157580647405" height="8" fill="#3572A5"/>
         
             <rect mask="url(#rect-mask)" x="386.6724859849486" y="0" width="63.3275140150514" height="8" fill="#d4d4d4"/>
         
@@ -126,8 +126,8 @@
                         </g>
                     
                         <g transform="translate(0, 100)" class="stagger" style="animation-delay: 850ms">
-                            <circle cx="5" cy="6" r="5" fill="#7e7eff" />
-                            <text x="15" y="10" class='lang-name'>Nix 0.05%</text>
+                            <circle cx="5" cy="6" r="5" fill="#3572A5" />
+                            <text x="15" y="10" class='lang-name'>Python 0.05%</text>
                         </g>
                     
                         <g transform="translate(0, 125)" class="stagger" style="animation-delay: 950ms">
