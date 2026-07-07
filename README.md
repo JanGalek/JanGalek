@@ -58,8 +58,12 @@ Jsem zkušený vývojář se specializací na **PHP**, **JavaScript** a **Golang
 
 ### 🚀 Moje projekty
 
+🔧 **[ValaFoundation](https://github.com/ValaFoundation)**  
+Jednoduché a efektivní knihovny a tooly v **[Vala](https://vala.dev/)**.
+
+
 🔧 **[Gouef](https://github.com/gouef)**  
-Jednoduchá a efektivní knihovna v **Golang** pro jednoduchý start web aplikace.
+Jednoduché a efektivní knihovny v **Golang** pro jednoduchý start web aplikace.
 
 
 🔧 **[PHPuef](https://github.com/phpuef)**  
