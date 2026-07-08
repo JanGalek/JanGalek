@@ -39,29 +39,29 @@
              <rect x="0" y="0" width="450" height="8" fill="white" rx="5"/>
         </mask>
         
-            <rect mask="url(#rect-mask)" x="0" y="0" width="127.10596400511534" height="8" fill="#00ADD8"/>
+            <rect mask="url(#rect-mask)" x="0" y="0" width="127.2899978142868" height="8" fill="#00ADD8"/>
         
-            <rect mask="url(#rect-mask)" x="127.10596400511534" y="0" width="119.09832801292205" height="8" fill="#4F5D95"/>
+            <rect mask="url(#rect-mask)" x="127.2899978142868" y="0" width="119.10285949401792" height="8" fill="#4F5D95"/>
         
-            <rect mask="url(#rect-mask)" x="246.2042920180374" y="0" width="42.5020679585643" height="8" fill="#f1e05a"/>
+            <rect mask="url(#rect-mask)" x="246.3928573083047" y="0" width="42.56360572766351" height="8" fill="#f1e05a"/>
         
-            <rect mask="url(#rect-mask)" x="288.7063599766017" y="0" width="36.14307960347342" height="8" fill="#663399"/>
+            <rect mask="url(#rect-mask)" x="288.9564630359682" y="0" width="36.19541033922353" height="8" fill="#663399"/>
         
-            <rect mask="url(#rect-mask)" x="324.8494395800751" y="0" width="16.437652783974762" height="8" fill="#89e051"/>
+            <rect mask="url(#rect-mask)" x="325.15187337519177" y="0" width="15.826584926327989" height="8" fill="#89e051"/>
         
-            <rect mask="url(#rect-mask)" x="341.2870923640499" y="0" width="13.397154438551878" height="8" fill="#a56de2"/>
+            <rect mask="url(#rect-mask)" x="340.97845830151977" y="0" width="13.416551871101039" height="8" fill="#a56de2"/>
         
-            <rect mask="url(#rect-mask)" x="354.68424680260176" y="0" width="12.004925252812402" height="8" fill="#e34c26"/>
+            <rect mask="url(#rect-mask)" x="354.3950101726208" y="0" width="12.022306908664563" height="8" fill="#e34c26"/>
         
-            <rect mask="url(#rect-mask)" x="366.6891720554142" y="0" width="11.176059705233376" height="8" fill="#00ADD8"/>
+            <rect mask="url(#rect-mask)" x="366.4173170812854" y="0" width="11.192241265675333" height="8" fill="#00ADD8"/>
         
-            <rect mask="url(#rect-mask)" x="377.8652317606476" y="0" width="7.043654006036294" height="8" fill="#3178c6"/>
+            <rect mask="url(#rect-mask)" x="377.6095583469607" y="0" width="7.053852351073547" height="8" fill="#3178c6"/>
         
-            <rect mask="url(#rect-mask)" x="384.9088857666839" y="0" width="2.4695651588827174" height="8" fill="#f2a542"/>
+            <rect mask="url(#rect-mask)" x="384.6634106980342" y="0" width="2.4731407856185967" height="8" fill="#f2a542"/>
         
-            <rect mask="url(#rect-mask)" x="387.37845092556665" y="0" width="0.21100116108461536" height="8" fill="#3572A5"/>
+            <rect mask="url(#rect-mask)" x="387.13655148365285" y="0" width="0.21130666482488392" height="8" fill="#3572A5"/>
         
-            <rect mask="url(#rect-mask)" x="387.58945208665125" y="0" width="62.41054791334886" height="8" fill="#d4d4d4"/>
+            <rect mask="url(#rect-mask)" x="387.3478581484777" y="0" width="62.652141851522266" height="8" fill="#d4d4d4"/>
         
 
         <g transform="translate(5, 25)">
@@ -71,7 +71,7 @@
                     
                         <g transform="translate(0, 0)" class="stagger" style="animation-delay: 450ms">
                             <circle cx="5" cy="6" r="5" fill="#00ADD8" />
-                            <text x="15" y="10" class='lang-name'>Go 28.25%</text>
+                            <text x="15" y="10" class='lang-name'>Go 28.29%</text>
                         </g>
                     
                         <g transform="translate(0, 25)" class="stagger" style="animation-delay: 550ms">
@@ -81,17 +81,17 @@
                     
                         <g transform="translate(0, 50)" class="stagger" style="animation-delay: 650ms">
                             <circle cx="5" cy="6" r="5" fill="#f1e05a" />
-                            <text x="15" y="10" class='lang-name'>JavaScript 9.44%</text>
+                            <text x="15" y="10" class='lang-name'>JavaScript 9.46%</text>
                         </g>
                     
                         <g transform="translate(0, 75)" class="stagger" style="animation-delay: 750ms">
                             <circle cx="5" cy="6" r="5" fill="#663399" />
-                            <text x="15" y="10" class='lang-name'>CSS 8.03%</text>
+                            <text x="15" y="10" class='lang-name'>CSS 8.04%</text>
                         </g>
                     
                         <g transform="translate(0, 100)" class="stagger" style="animation-delay: 850ms">
                             <circle cx="5" cy="6" r="5" fill="#89e051" />
-                            <text x="15" y="10" class='lang-name'>Shell 3.65%</text>
+                            <text x="15" y="10" class='lang-name'>Shell 3.52%</text>
                         </g>
                     
                         <g transform="translate(0, 125)" class="stagger" style="animation-delay: 950ms">
@@ -112,7 +112,7 @@
                     
                         <g transform="translate(0, 25)" class="stagger" style="animation-delay: 550ms">
                             <circle cx="5" cy="6" r="5" fill="#00ADD8" />
-                            <text x="15" y="10" class='lang-name'>Go Template 2.48%</text>
+                            <text x="15" y="10" class='lang-name'>Go Template 2.49%</text>
                         </g>
                     
                         <g transform="translate(0, 50)" class="stagger" style="animation-delay: 650ms">
@@ -132,7 +132,7 @@
                     
                         <g transform="translate(0, 125)" class="stagger" style="animation-delay: 950ms">
                             <circle cx="5" cy="6" r="5" fill="#d4d4d4" />
-                            <text x="15" y="10" class='lang-name'>Others 13.87%</text>
+                            <text x="15" y="10" class='lang-name'>Others 13.92%</text>
                         </g>
                     
                 </g>
