@@ -39,29 +39,29 @@
              <rect x="0" y="0" width="450" height="8" fill="white" rx="5"/>
         </mask>
         
-            <rect mask="url(#rect-mask)" x="0" y="0" width="125.59478026943842" height="8" fill="#00ADD8"/>
+            <rect mask="url(#rect-mask)" x="0" y="0" width="125.58872669660283" height="8" fill="#00ADD8"/>
         
-            <rect mask="url(#rect-mask)" x="125.59478026943842" y="0" width="117.5166762862026" height="8" fill="#4F5D95"/>
+            <rect mask="url(#rect-mask)" x="125.58872669660283" y="0" width="117.51101207183181" height="8" fill="#4F5D95"/>
         
-            <rect mask="url(#rect-mask)" x="243.111456555641" y="0" width="41.99675387409668" height="8" fill="#f1e05a"/>
+            <rect mask="url(#rect-mask)" x="243.09973876843463" y="0" width="41.99472966251806" height="8" fill="#f1e05a"/>
         
-            <rect mask="url(#rect-mask)" x="285.1082104297377" y="0" width="35.71336857864812" height="8" fill="#663399"/>
+            <rect mask="url(#rect-mask)" x="285.0944684309527" y="0" width="35.7116472214593" height="8" fill="#663399"/>
         
-            <rect mask="url(#rect-mask)" x="320.8215790083858" y="0" width="19.12465547310041" height="8" fill="#a56de2"/>
+            <rect mask="url(#rect-mask)" x="320.806115652412" y="0" width="19.126164416745578" height="8" fill="#a56de2"/>
         
-            <rect mask="url(#rect-mask)" x="339.9462344814862" y="0" width="15.619176077398414" height="8" fill="#89e051"/>
+            <rect mask="url(#rect-mask)" x="339.93228006915757" y="0" width="15.618423244997148" height="8" fill="#89e051"/>
         
-            <rect mask="url(#rect-mask)" x="355.56541055888465" y="0" width="11.862196719717472" height="8" fill="#e34c26"/>
+            <rect mask="url(#rect-mask)" x="355.5507033141547" y="0" width="11.861624970862314" height="8" fill="#e34c26"/>
         
-            <rect mask="url(#rect-mask)" x="367.4276072786021" y="0" width="11.043185691116909" height="8" fill="#00ADD8"/>
+            <rect mask="url(#rect-mask)" x="367.412328285017" y="0" width="11.042653417970087" height="8" fill="#00ADD8"/>
         
-            <rect mask="url(#rect-mask)" x="378.470792969719" y="0" width="6.959910843730951" height="8" fill="#3178c6"/>
+            <rect mask="url(#rect-mask)" x="378.4549817029871" y="0" width="6.95957538132454" height="8" fill="#3178c6"/>
         
-            <rect mask="url(#rect-mask)" x="385.43070381344995" y="0" width="2.440204092063322" height="8" fill="#f2a542"/>
+            <rect mask="url(#rect-mask)" x="385.41455708431164" y="0" width="2.4400864760829974" height="8" fill="#f2a542"/>
         
-            <rect mask="url(#rect-mask)" x="387.87090790551326" y="0" width="0.20849253353644473" height="8" fill="#3572A5"/>
+            <rect mask="url(#rect-mask)" x="387.85464356039466" y="0" width="0.20848248435498407" height="8" fill="#7e7eff"/>
         
-            <rect mask="url(#rect-mask)" x="388.0794004390497" y="0" width="61.92059956095025" height="8" fill="#d4d4d4"/>
+            <rect mask="url(#rect-mask)" x="388.06312604474965" y="0" width="61.936873955250334" height="8" fill="#d4d4d4"/>
         
 
         <g transform="translate(5, 25)">
@@ -126,8 +126,8 @@
                         </g>
                     
                         <g transform="translate(0, 100)" class="stagger" style="animation-delay: 850ms">
-                            <circle cx="5" cy="6" r="5" fill="#3572A5" />
-                            <text x="15" y="10" class='lang-name'>Python 0.05%</text>
+                            <circle cx="5" cy="6" r="5" fill="#7e7eff" />
+                            <text x="15" y="10" class='lang-name'>Nix 0.05%</text>
                         </g>
                     
                         <g transform="translate(0, 125)" class="stagger" style="animation-delay: 950ms">
@@ -148,7 +148,7 @@
                     
                         <g transform="translate(0, 24)" class="stagger" style="animation-delay: 100ms">
                             <text x="0" y="10" class="stat-label">Merged PRs:</text>
-                            <text x="115" y="10" class="stat-value">145</text>
+                            <text x="115" y="10" class="stat-value">148</text>
                         </g>
                     
                         <g transform="translate(0, 46)" class="stagger" style="animation-delay: 200ms">
