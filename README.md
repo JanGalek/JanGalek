@@ -131,6 +131,4 @@ Thank you to everyone supporting the project!
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor_on_GitHub-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/JanGalek)
 
-<!-- ACTION-GITHUB-SPONSORS:START -->
-*(Sponsors will be listed here. Join them by becoming a [sponsor](https://github.com/sponsors/JanGalek)!)*
-<!-- ACTION-GITHUB-SPONSORS:END -->
+<!-- sponsors --><!-- sponsors -->
