@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Update Sponsors List
         uses: JamesIves/github-sponsors-readme-action@v1
@@ -19,7 +19,7 @@ jobs:
           file: 'README.md'
 
       - name: Commit & Push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: 'docs: update sponsors in README [skip ci]'
           file_pattern: 'README.md'
