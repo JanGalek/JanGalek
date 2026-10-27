@@ -43,25 +43,25 @@
         
             <rect mask="url(#rect-mask)" x="129.19788964097805" y="0" width="54.998574734634914" height="8" fill="#a56de2"/>
         
-            <rect mask="url(#rect-mask)" x="184.19646437561295" y="0" width="51.10542615434416" height="8" fill="#4F5D95"/>
+            <rect mask="url(#rect-mask)" x="184.19646437561295" y="0" width="51.21244184192599" height="8" fill="#4F5D95"/>
         
-            <rect mask="url(#rect-mask)" x="235.30189052995712" y="0" width="46.33815507853454" height="8" fill="#000080"/>
+            <rect mask="url(#rect-mask)" x="235.40890621753894" y="0" width="46.33815507853454" height="8" fill="#000080"/>
         
-            <rect mask="url(#rect-mask)" x="281.6400456084917" y="0" width="36.66881664323434" height="8" fill="#00ADD8"/>
+            <rect mask="url(#rect-mask)" x="281.74706129607347" y="0" width="36.66881664323434" height="8" fill="#00ADD8"/>
         
-            <rect mask="url(#rect-mask)" x="318.308862251726" y="0" width="26.361128423656506" height="8" fill="#f1e05a"/>
+            <rect mask="url(#rect-mask)" x="318.4158779393078" y="0" width="26.361128423656506" height="8" fill="#f1e05a"/>
         
-            <rect mask="url(#rect-mask)" x="344.6699906753825" y="0" width="22.11613255451036" height="8" fill="#663399"/>
+            <rect mask="url(#rect-mask)" x="344.7770063629643" y="0" width="22.11613255451036" height="8" fill="#663399"/>
         
-            <rect mask="url(#rect-mask)" x="366.7861232298929" y="0" width="15.331023920301094" height="8" fill="#89e051"/>
+            <rect mask="url(#rect-mask)" x="366.8931389174747" y="0" width="15.331023920301094" height="8" fill="#89e051"/>
         
-            <rect mask="url(#rect-mask)" x="382.117147150194" y="0" width="7.887273588141793" height="8" fill="#e34c26"/>
+            <rect mask="url(#rect-mask)" x="382.2241628377758" y="0" width="7.887273588141793" height="8" fill="#e34c26"/>
         
-            <rect mask="url(#rect-mask)" x="390.0044207383358" y="0" width="4.596963943201968" height="8" fill="#3178c6"/>
+            <rect mask="url(#rect-mask)" x="390.1114364259176" y="0" width="4.596963943201968" height="8" fill="#3178c6"/>
         
-            <rect mask="url(#rect-mask)" x="394.60138468153775" y="0" width="2.436962203895081" height="8" fill="#f2a542"/>
+            <rect mask="url(#rect-mask)" x="394.70840036911954" y="0" width="2.436962203895081" height="8" fill="#f2a542"/>
         
-            <rect mask="url(#rect-mask)" x="397.0383468854328" y="0" width="52.96165311456718" height="8" fill="#d4d4d4"/>
+            <rect mask="url(#rect-mask)" x="397.1453625730146" y="0" width="52.85463742698535" height="8" fill="#d4d4d4"/>
         
 
         <g transform="translate(5, 25)">
@@ -81,7 +81,7 @@
                     
                         <g transform="translate(0, 50)" class="stagger" style="animation-delay: 650ms">
                             <circle cx="5" cy="6" r="5" fill="#4F5D95" />
-                            <text x="15" y="10" class='lang-name'>PHP 11.36%</text>
+                            <text x="15" y="10" class='lang-name'>PHP 11.38%</text>
                         </g>
                     
                         <g transform="translate(0, 75)" class="stagger" style="animation-delay: 750ms">
@@ -132,7 +132,7 @@
                     
                         <g transform="translate(0, 125)" class="stagger" style="animation-delay: 950ms">
                             <circle cx="5" cy="6" r="5" fill="#d4d4d4" />
-                            <text x="15" y="10" class='lang-name'>Others 11.77%</text>
+                            <text x="15" y="10" class='lang-name'>Others 11.75%</text>
                         </g>
                     
                 </g>
@@ -168,7 +168,7 @@
                     
                         <g transform="translate(0, 112)" class="stagger" style="animation-delay: 500ms">
                             <text x="0" y="10" class="stat-label">Followers:</text>
-                            <text x="115" y="10" class="stat-value">12</text>
+                            <text x="115" y="10" class="stat-value">11</text>
                         </g>
                     
                 
